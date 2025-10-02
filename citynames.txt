@@ -1,2 +1,2 @@
-city=chennai
+city=was chennai now, change to madras
 population=1cr
