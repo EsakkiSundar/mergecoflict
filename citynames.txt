@@ -1,2 +1,2 @@
-city=chennai
+city=chennai.
 population=1cr
